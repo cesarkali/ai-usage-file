@@ -1,0 +1,6 @@
+{
+  "name": "ai-usage-file",
+  "owner": { "name": "cesarkali", "url": "https://github.com/cesarkali" },
+  "description": "Your Claude plan usage in a JSON file that mods, widgets and status bars can read.",
+  "plugins": [{ "name": "ai-usage-file", "source": "./" }]
+}

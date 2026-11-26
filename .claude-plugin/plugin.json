@@ -1,0 +1,11 @@
+{
+  "name": "ai-usage-file",
+  "version": "1.0.0",
+  "description": "Saves your Claude plan usage (5-hour and weekly limits) to a JSON file after each response, for mods, widgets and status bars to show. Works in the Claude desktop app too.",
+  "author": { "name": "cesarkali", "url": "https://github.com/cesarkali" },
+  "homepage": "https://github.com/cesarkali/ai-usage-file",
+  "repository": "https://github.com/cesarkali/ai-usage-file",
+  "license": "GPL-3.0-only",
+  "keywords": ["usage", "rate-limits", "json", "widgets", "mods"],
+  "network": { "hosts": [] }
+}
